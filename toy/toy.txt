@@ -1,10 +1,10 @@
 NumInstances 2
 Inst C1 MC1
-Inst C2 MC3
+Inst C2 MC2
 NumNets 1
 Net N1 2
-Pin C1/P2
-Pin C2/P1
+Pin C1/P1
+Pin C2/P2
 
 DieSize 0 0 500 450
 
