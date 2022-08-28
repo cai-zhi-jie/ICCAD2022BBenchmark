@@ -2290,13 +2290,13 @@ Pin P2 326 47
 LibCell MC250 50 252 1 
 Pin P1 25 126 
 
-DieSize 0 0 14550 11400 
+DieSize 0 0 14550 14400 
 
 TopDieMaxUtil 100
-BottomDieMaxUtil 0 
+BottomDieMaxUtil 0
 
-TopDieRows 0 0 14550 176 65 
-BottomDieRows 0 0 14550 252 45 
+TopDieRows 0 0 14550 176 81 
+BottomDieRows 0 0 14550 252 57 
 
 TopDieTech TA 
 BottomDieTech TB 
