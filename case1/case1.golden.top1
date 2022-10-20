@@ -1,14 +1,12 @@
-TopDiePlacement 4
-Inst C3 0 10
-Inst C5 16 10
-Inst C6 7 20
-Inst C7 5 0
-BottomDiePlacement 4
+TopDiePlacement 5
 Inst C1 0 0
 Inst C2 7 0
-Inst C4 14 15
+Inst C3 7 10
+Inst C7 13 20
 Inst C8 23 0
-NumTerminals 3
-Terminal N2 8 8
-Terminal N5 8 19
-Terminal N6 19 19
+BottomDiePlacement 3
+Inst C4 4 0
+Inst C5 0 15
+Inst C6 12 15
+NumTerminals 1
+Terminal N4 19 19
