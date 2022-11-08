@@ -2293,7 +2293,7 @@ Pin P1 25 126
 DieSize 0 0 14550 14400 
 
 TopDieMaxUtil 100
-BottomDieMaxUtil 0
+BottomDieMaxUtil 1
 
 TopDieRows 0 0 14550 176 81 
 BottomDieRows 0 0 14550 252 57 
